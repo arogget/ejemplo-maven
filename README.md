@@ -1,4 +1,4 @@
-#ssssss Getting Started
+#sss Getting Started
 cambio para subir a pipedream.com
 
 ## Windows
