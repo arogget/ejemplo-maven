@@ -1,5 +1,5 @@
 #ddsss Getting Started
-cambio para subir a pipedream.com
+cdambio para subir a pipedream.com
 
 ## Windows
 
